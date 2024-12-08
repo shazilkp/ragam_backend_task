@@ -1,6 +1,6 @@
 
 const DATABASE_URL = "mongodb://localhost/books"
-const JWT_SECRET= "03a1085727efcfb91c734893b4caca428fec5ff306c4ba89445a11e2d20cf1e4"
+const JWT_SECRET= "your_jwt_secret"
 
 const express = require('express')
 const app = express()
