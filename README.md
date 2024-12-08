@@ -85,5 +85,5 @@ Start the server using the command:
 ```bash
 node server.js
 ```
-### **5. Test the Endpoints**
+### **4. Test the Endpoints**
 Use a tool like to test the API endpoints and verify functionality
